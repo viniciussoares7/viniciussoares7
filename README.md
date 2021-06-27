@@ -7,7 +7,7 @@ My name is Vinícius Alexandre Soares and I'm a Student/Tech enthusiast & Automa
 
 I'm from Brazil, living in Ourinhos/SP. 
 
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][3.2]][3].
 
 
 
