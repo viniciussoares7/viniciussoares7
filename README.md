@@ -3,7 +3,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Vinícius Alexandre Soares and I'm a Student/Tech enthusiast & Automation and Control Engineer. I'm from Brazil, living in Ourinhos/SP. 
+My name is Vinícius Alexandre Soares and I'm a Student/Tech enthusiast & Automation and Control Engineer. 
+
+I'm from Brazil, living in Ourinhos/SP. 
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
