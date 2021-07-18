@@ -1,7 +1,7 @@
 <h1 align="center" ><img src="https://github.com/viniciussoares7/viniciussoares7/blob/main/header-readme.png" alt="header" style="zoom:50%;" width="700px" height="auto"/></h1>
 
 <div><h1 align="center"> 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </div></h1> 
 <p align="center"> 
 My name is Vinícius Alexandre Soares and I'm a Student/Tech enthusiast & Automation and Control Engineer. </p>
