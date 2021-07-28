@@ -1,12 +1,25 @@
 <h1 align="center" ><img src="https://github.com/viniciussoares7/viniciussoares7/blob/main/header-readme.png" alt="header" style="zoom:50%;" width="700px" height="auto"/></h1>
 
 <div><h1 align="center"> 
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Olá! | Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </div></h1> 
 <p align="center"> 
-My name is Vinícius Alexandre Soares and I'm a Student/Tech enthusiast & Automation and Control Engineer.</p>
+Meu nome é Vinicius Alexandre Soares | My name is Vinícius Alexandre Soares.
+  
+<p align="center"> Estudante e entusiasta de tecnologia. 
 
-<p align="center"> I'm from Brazil, living in Ourinhos/SP.</p>
+- 🚀Cursando Curso superior em Analise e Desenvolvimento de Sistemas pela Fatec de Ourinhos.
+- 🚀Cursando Gestão em Tecnologia EAD pela Uniasselvi.
+
+- 🎓 Graduado em Engenharia de Controle e Automação. | Pós - Graduado em Engenharia de Produção
+
+- 📌 Encontre-me também em: https://linktr.ee/viniciussoares7
+
+- 💻 Atualmente estudando sobre: JavaScript, React js, Node Js, HTML, CSS, PostgreSQL, Java.
+
+
+
+<p align="center"> Sou de Ourinhos no inteirior de São Paulo / Brasil! | I'm from Brazil, living in Ourinhos/SP.</p>
 
 <p align="center">You can find me on:  <a href="https://www.linkedin.com/in/soaresvinicius7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.youtube.com/channel/UCQLZT8XeiefUDy7Tg3wammg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.instagram.com/vinisoares7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://linktr.ee/viniciussoares7" target="blank"><img align="center" src="https://github.com/viniciussoares7/viniciussoares7/blob/main/Assets/linktree.png" alt="Lintr.ee" height="30" width="40" /></a></p>
 
