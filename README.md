@@ -52,7 +52,7 @@ Meu nome é Vinicius Alexandre Soares | My name is Vinícius Alexandre Soares.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussoares7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciussoares7" alt="lorem" /></p>
+  
   
  </h1> </div>
 
