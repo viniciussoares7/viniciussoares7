@@ -13,8 +13,6 @@ Meu nome é Vinicius Alexandre Soares | My name is Vinícius Alexandre Soares.
 
 - 🎓 Graduado em Engenharia de Controle e Automação. | Pós - Graduado em Engenharia de Produção
 
-- 📌 Encontre-me também em: https://linktr.ee/viniciussoares7
-
 - 💻 Atualmente estudando sobre: JavaScript, React js, Node Js, HTML, CSS, PostgreSQL, Java.
 
 
