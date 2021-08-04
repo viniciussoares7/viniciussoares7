@@ -17,7 +17,7 @@ Meu nome é Vinicius Alexandre Soares | My name is Vinícius Alexandre Soares.
 
 
 
-<p align="center"> Sou de Ourinhos no inteirior de São Paulo / Brasil! | I'm from Brazil, living in Ourinhos/SP.</p>
+<p align="center"> Sou de Ourinhos no interior de São Paulo / Brasil! | I'm from Brazil, living in Ourinhos/SP.</p>
 
 <br>
 <h1 align="center"> Encontre-me em: / You can find me on: <br> <a href="https://www.linkedin.com/in/soaresvinicius7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.youtube.com/channel/UCQLZT8XeiefUDy7Tg3wammg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.instagram.com/vinisoares7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://linktr.ee/viniciussoares7" target="blank"><img align="center" src="https://github.com/viniciussoares7/viniciussoares7/blob/main/Assets/linktree.png" alt="Lintr.ee" height="30" width="40" /></a></h1>
