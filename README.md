@@ -1,31 +1,24 @@
 <h1 align="center" ><img src="https://github.com/viniciussoares7/viniciussoares7/blob/main/header-readme.png" alt="header" style="zoom:50%;" width="700px" height="auto"/></h1>
 
 <div><h1 align="center"> 
-Olá! | Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </div></h1> 
 <p align="center"> 
-Meu nome é Vinicius Alexandre Soares | My name is Vinícius Alexandre Soares.
+Meu nome é Vinicius Alexandre Soares
   
-<p align="center"> Estudante e entusiasta de tecnologia. 
-
 - 🚀Cursando Curso superior em Analise e Desenvolvimento de Sistemas pela Fatec de Ourinhos.
 - 🚀Cursando Gestão em Tecnologia EAD pela Uniasselvi.
 
 - 🎓 Graduado em Engenharia de Controle e Automação. | Pós - Graduado em Engenharia de Produção
 
-- 💻 Atualmente estudando sobre: JavaScript, React js, Node Js, HTML, CSS, PostgreSQL, Java.
-
-
-
-<p align="center"> Sou de Ourinhos no interior de São Paulo / Brasil! | I'm from Brazil, living in Ourinhos/SP.</p>
+ - Sou de Ourinhos no interior do estado de São Paulo / Brasil.
 
 <br>
-<h1 align="center"> Encontre-me em: / You can find me on: <br> <a href="https://www.linkedin.com/in/soaresvinicius7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.youtube.com/channel/UCQLZT8XeiefUDy7Tg3wammg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.instagram.com/vinisoares7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://linktr.ee/viniciussoares7" target="blank"><img align="center" src="https://github.com/viniciussoares7/viniciussoares7/blob/main/Assets/linktree.png" alt="Lintr.ee" height="30" width="40" /></a></h1>
+<h1 align="center"> Encontre-me em: <br> <a href="https://www.linkedin.com/in/soaresvinicius7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.youtube.com/channel/UCQLZT8XeiefUDy7Tg3wammg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://www.instagram.com/vinisoares7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorem" height="30" width="40" /></a> || <a href="https://linktr.ee/viniciussoares7" target="blank"><img align="center" src="https://github.com/viniciussoares7/viniciussoares7/blob/main/Assets/linktree.png" alt="Lintr.ee" height="30" width="40" /></a></h1>
 <br>
 
-<h1 align="center" >🔧 Main Technologies 🔧 <br>
+<h1 align="center" > Tecnologias 🔧 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-<h1 align="center" >🔧 Technologies & Tools 🔧</h1>
 <div><h1 align="center"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
