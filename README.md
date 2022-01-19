@@ -7,9 +7,8 @@ Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master
 Meu nome é Vinicius Alexandre Soares
   
 <!-- - 🚀Cursando Curso superior em Analise e Desenvolvimento de Sistemas pela Fatec de Ourinhos. -->
-- 🚀Cursando Gestão em Tecnologia EAD pela Uniasselvi.
 
-- 🎓 Graduado em Engenharia de Controle e Automação. | Pós - Graduado em Engenharia de Produção
+- 🎓 Graduado em Engenharia de Controle e Automação. | Pós - Graduado em Engenharia de Produção | Pós - Graduado Gestão em Tecnologia EAD pela Uniasselvi.
 
  - Sou de Ourinhos no interior do estado de São Paulo / Brasil.
 
