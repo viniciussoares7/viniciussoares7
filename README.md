@@ -36,11 +36,11 @@ Meu nome é Vinicius Alexandre Soares -->
 
 
 
-<h3 align="left" > &#x1f4c8; GitHub Stats</h3>
+<h3 align="left" > Statistics</h3>
 
 <div><h1 align="left"> 
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussoares7&show_icons=true&theme=dark) 
+<!--![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussoares7&show_icons=true&theme=dark) -->
 
 
 
