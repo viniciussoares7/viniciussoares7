@@ -1,21 +1,22 @@
 <!-- <h1 align="center" ><img src="https://github.com/viniciussoares7/viniciussoares7/blob/main/header-readme.png" alt="header" style="zoom:50%;" width="700px" height="auto"/></h1>-->
 
-<div><h1 align="center"> 
+<!-- <div><h1 align="center"> 
 Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </div></h1> 
 <p align="center"> 
-Meu nome é Vinicius Alexandre Soares
+Meu nome é Vinicius Alexandre Soares -->
+Welcome to Vinicius' repository
   
 <!-- - 🚀Cursando Curso superior em Analise e Desenvolvimento de Sistemas pela Fatec de Ourinhos. -->
 
-- 🎓 Graduado em Engenharia de Controle e Automação. | Pós - Graduado em Engenharia de Produção | Pós - Graduado Gestão em Tecnologia EAD pela Uniasselvi.
+<!-- - 🎓 Graduado em Engenharia de Controle e Automação. | Pós - Graduado em Engenharia de Produção | Pós - Graduado Gestão em Tecnologia EAD pela Uniasselvi.
 
  - Sou de Ourinhos no interior do estado de São Paulo / Brasil.
 
 <br>
 <h1 align="left"> Encontre-me em: <br><br> 
-<h3 align="center"> <a href="https://www.linkedin.com/in/soaresvinicius7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorem" height="30" width="40" /></a> <!--   --> <a href="https://www.youtube.com/channel/UCQLZT8XeiefUDy7Tg3wammg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lorem" height="30" width="40" /></a> <br><br> 
-  <a href="https://www.instagram.com/vinisoares7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorem" height="30" width="40" /></a> <!--   --> <a href="https://linktr.ee/viniciussoares7" target="blank"><img align="center" src="https://github.com/viniciussoares7/viniciussoares7/blob/main/Assets/linktree.png" alt="Lintr.ee" height="30" width="40" /></a></h1>
+<h3 align="center"> <a href="https://www.linkedin.com/in/soaresvinicius7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorem" height="30" width="40" /></a> <!-- <a href="https://www.youtube.com/channel/UCQLZT8XeiefUDy7Tg3wammg" target="blank"><img align="center" <!-- src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lorem" height="30" width="40" /></a> <br><br> 
+  <a href="https://www.instagram.com/vinisoares7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorem" height="30" width="40" /></a> <!-- <a href="https://linktr.ee/viniciussoares7" target="blank"><img align="center" src="https://github.com/viniciussoares7/viniciussoares7/blob/main/Assets/linktree.png" alt="Lintr.ee" height="30" width="40" /></a></h1>
 <br>
 
 <h1 align="left" > 🔧 Tecnologias:  <br><br>
@@ -27,6 +28,7 @@ Meu nome é Vinicius Alexandre Soares
   <a><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="react" width="40" height="40"/></a>
   
    </h1> </div> -->
+   
 
   
 
@@ -66,7 +68,7 @@ Meu nome é Vinicius Alexandre Soares
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/
+[1]: https://twitter.com/Vincius22235682
 [2]: https://github.com/viniciussoares7
 [3]: https://www.linkedin.com/in/soaresvinicius7/
 
